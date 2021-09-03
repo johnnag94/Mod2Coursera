@@ -46,7 +46,7 @@ p {
     background-color: #EABBC1;
     color: #000;
     text-align: center;
-    border: 1px solid #000;
+    border: 0px solid #000;
     margin-top: 0px;
     width: 120px;
     height: 30px;
@@ -59,7 +59,7 @@ p {
     background-color: #D63C3C;
     color: #fff;
     text-align: center;
-    border: 1px solid #000;
+    border: 0px solid #000;
     margin-top: 0px;
     width: 120px;
     height: 30px;
@@ -72,7 +72,7 @@ p {
     background-color: #FAE8A7;
     color: #000;
     text-align: center;
-    border: 1px solid #000;
+    border: 0px solid #000;
     margin-top: 0px;
     width: 120px;
     height: 30px;
